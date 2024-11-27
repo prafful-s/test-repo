@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/test-repo/:/",
-    "/content/test-repo/configuration:/.helix/config.json",
-    "/content/test-repo/metadata:/metadata.json"
+    "/content/test-sample-repo/:/",
+    "/content/test-sample-repo/configuration:/.helix/config.json",
+    "/content/test-sample-repo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/test-repo/"
+    "/content/test-sample-repo/"
   ]
 }
